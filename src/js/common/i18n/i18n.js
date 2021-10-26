@@ -11,6 +11,8 @@ import homeEn from '../../views/home/translations/en.home.i18n.json';
 import homePtBr from '../../views/home/translations/pt_br.home.i18n.json';
 import loginEn from '../../views/login/translations/en.login.i18n.json';
 import loginPtBr from '../../views/login/translations/pt_br.login.i18n.json';
+import certificatesEn from '../../views/safety/Certificates/translations/en.certificates.i18n.json'
+import certificatesPtBr from '../../views/safety/Certificates/translations/pt_br.certificates.i18n.json'
 import certificationAuthoritiesEn from '../../views/safety/CertificationAuthorities/translations/en.security.i18n.json';
 import certificationAuthoritiesPtBr from '../../views/safety/CertificationAuthorities/translations/pt_br.security.i18n.json';
 import userInfoEn from '../../views/stateComponents/UserInfo/translations/en_us.userInfo.i18n.json';
@@ -49,6 +51,7 @@ const resources = {
     templateTable: templateTableEn,
     userInfo: userInfoEn,
     certificationAuthorities: certificationAuthoritiesEn,
+    certificates: certificatesEn,
   },
   pt: {
     login: loginPtBr,
@@ -66,6 +69,7 @@ const resources = {
     templateTable: templateTablePtBr,
     userInfo: userInfoBr,
     certificationAuthorities: certificationAuthoritiesPtBr,
+    certificates: certificatesPtBr,
   },
 };
 

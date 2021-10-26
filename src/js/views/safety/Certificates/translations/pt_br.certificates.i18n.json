@@ -1,0 +1,24 @@
+{
+  "headerTitle": "Certificados",
+  "searchInputPh": "Pesquisar Certificado",
+  "totalOfItems": "Total de itens",
+  "numberOfSelectedItems": "{{count}} Linha Selecionada",
+  "numberOfSelectedItems_plural": "{{count}} Linhas Selecionadas",
+  "labelDisplayedRows": "{{from}}-{{to}} de {{count}}",
+  "labelRowsPerPage": "Itens por página:",
+  "noCertificateFound": "Nenhum Certificado Encontrado",
+  "dataTableHead": {
+    "label": "NOME",
+    "validityPeriod": "PERÍODO DE VALIDADE",
+    "deviceId": "ID DO DISPOSITIVO",
+    "status": "STATUS",
+    "actions": "AÇÕES"
+  },
+  "dataTableBody": {
+    "status": {
+      "valid": "Válido",
+      "expired": "Expirado",
+      "to_expire": "A expirar"
+    }
+  }
+}

@@ -73,4 +73,11 @@ export const MENU_ITEMS = [
     path: '/certification-authorities',
     icon: VerifiedUser,
   },
+  {
+    visible: true,
+    i18n: 'safety',
+    label: 'Certificados',
+    path: '/certificates',
+    icon: VerifiedUser,
+  },
 ];

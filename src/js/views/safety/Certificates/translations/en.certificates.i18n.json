@@ -1,0 +1,24 @@
+{
+  "headerTitle": "Certificates",
+  "searchInputPh": "Search Certificate",
+  "totalOfItems": "Total of items",
+  "numberOfSelectedItems": "{{count}} Selected Row",
+  "numberOfSelectedItems_plural": "{{count}} Selected Rows",
+  "labelDisplayedRows": "{{from}}-{{to}} of {{count}}",
+  "labelRowsPerPage": "Items per page:",
+  "noCertificateFound": "No Certificate Found",
+  "dataTableHead": {
+    "label": "NAME",
+    "validityPeriod": "VALIDITY PERIOD",
+    "deviceId": "DEVICE ID",
+    "status": "STATUS",
+    "actions": "ACTIONS"
+  },
+  "dataTableBody": {
+    "status": {
+      "valid": "Valid",
+      "expired": "Expired",
+      "to_expire": "To expire"
+    }
+  }
+}
